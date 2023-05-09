@@ -1,0 +1,20 @@
+.navbg {
+  background-color: #475569;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.inputs {
+  margin: 8px;
+}
+.inputdiv {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  color: aliceblue;
+}
+.layout {
+  color: aliceblue;
+  font-size: 25px;
+}

@@ -1,0 +1,45 @@
+.bodydiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.leftbar {
+  padding: 8px;
+  color: darkblue;
+  font-size: 10px;
+  background-color: #e2e8f0;
+}
+.rightbar {
+  padding: 8px;
+  color: darkblue;
+  font-size: 10px;
+  background-color: #e2e8f0;
+}
+.content {
+  padding: 8px;
+  color: darkblue;
+  font-size: 10px;
+}
+.ullist {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: 15px;
+}
+.rdiv {
+  border-style: solid;
+  border-width: 2px;
+  border-color: darkblue;
+  margin-bottom: 5px;
+
+  color: darkblue;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.para {
+  font-size: 18px;
+}
